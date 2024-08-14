@@ -188,8 +188,8 @@ header.masthead .masthead-heading {
   margin-bottom: 0; 
 }
 
-/* .page-content ul > li{
+.page-content ul > li{
   list-style: "\2705";
   list-style-position: outside;
   padding-left: 15px;
-} */
+}
